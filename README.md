@@ -5,6 +5,7 @@ This project is a fullstack prototype developed for the Vocare Tech Challenge. I
 ## To run the project locally:
 
 git clone https://github.com/ShubhamShrestha25/Vocare-Calendar
+cd Vocare-Calendar
 npm install
 npm run dev
 
