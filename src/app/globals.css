@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+* {
+  box-sizing: border-box;
+}
+
+.custom-event {
+  background-color: transparent !important;
+  border: none;
+}
+
+.fc-h-event {
+  background-color: transparent;
+  border: none;
+}
+
+.fc-h-event .fc-event-main {
+  color: #101828;
+}
